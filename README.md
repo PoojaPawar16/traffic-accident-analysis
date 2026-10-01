@@ -10,7 +10,7 @@
 
 
 
-The project uses a \*\*Kaggle road accident dataset\*\* and applies data preprocessing, statistical analysis, and visualization techniques to understand accident patterns based on factors such as time, weather conditions, road type, accident severity, casualties, and vehicle involvement.
+The project uses a Kaggle road accident dataset and applies data preprocessing, statistical analysis, and visualization techniques to understand accident patterns based on factors such as time, weather conditions, road type, accident severity, casualties, and vehicle involvement.
 
 
 
